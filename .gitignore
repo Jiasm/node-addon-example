@@ -135,3 +135,5 @@ dist
 *.exe
 *.out
 *.app
+
+*/build/*
